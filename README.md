@@ -33,6 +33,8 @@ I'm very active in these platforms!
 - [Soundcloud](https://soundcloud.com/bit2kingwn/sets/bit2-touhou-covers) - Stream for free. Audio versions.
 
 Other official accounts:
-- [Bilibili](https://space.bilibili.com/1699888757) - Secondary video platform to reach more audience
+- [Bilibili](https://space.bilibili.com/1699888757) - Secondary video platform to reach more audience for Touhou music
 - [Facebook](https://www.facebook.com/bit2kingwn) - Official Facebook page
 - [TouhouDB](https://touhoudb.com/Ar/9229) - TouhouDB Page (seldom update anymore)
+- [Youtube: ABit2Gentle](https://www.youtube.com/@ABit2Gentle) - Non-touhou Anime and Game Music Covers (secondary channel)
+- [Youtube: bit2kingwn](https://www.youtube.com/@bit2kingwn) - Claiming the handle as a link to bridge between Bit2GensokyoMelodies (for Touhou) and ABit2Gentle (VGM and Anime Covers)
