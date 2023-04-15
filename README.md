@@ -1,3 +1,4 @@
+![alt text](https://github.com/bit2kingwn/Bit2-Gensokyo-Melodies/blob/main/bit2-portrait-2022.jpg)
 # Bit2 Gensokyo Melodies
 Welcome and hello hello, everyone! This is a simple page for playlist and content organization.
 
