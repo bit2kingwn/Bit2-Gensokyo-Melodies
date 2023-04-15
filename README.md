@@ -1,5 +1,13 @@
-# Bit2-Gensokyo-Melodies
-A page for playlist and content organization.
+# Bit2 Gensokyo Melodies
+Welcome and hello hello, everyone! This is a simple page for playlist and content organization.
+
+## Official Uploads
+- [Recent Incidents in Gensokyo](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
+- [Touhou Complete Folk/Acoustic Collection](https://www.youtube.com/playlist?list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp) - Similar to above, but sorted by in-game order of appearance. For example, songs from Touhou 7 will come before Touhou 10, and Stage 1 themes will appear before Stage 5 themes.
+
+## Main Content Series (Recommended) ⭐ 
+- [Newest Full Arrangements](https://www.youtube.com/playlist?list=PLCPzClPadeI1BKjGt-X0SaIdicaIjBE6b) - The playlist contains latest full arrangements that I consider as my usual video format. They are full-length arrangements and not ABit2Short.
+- [Happy Touhou Series](https://www.youtube.com/playlist?list=PLCPzClPadeI3i-lhUqBqaVpAddpYIkC3C) - This playlist contains cozy and happy short arrangements and covers, featuring mini music, drawings, and maybe even a key take-away message :)
 
 ## Playlist by Touhou Series
 The music videos and arrangements are categorized into playlists for specific Touhou game installments. "Touhou Special" playlist contains singles, sideline games, or cover songs from fanworks not attributable to the mainline games.
@@ -15,3 +23,18 @@ The music videos and arrangements are categorized into playlists for specific To
 - [\[Touhou 14 DDC\] 東方輝針城 ~ Double Dealing Character](https://www.youtube.com/playlist?list=PLCPzClPadeI0ETwZTgcBYrXBAz-IzuUSq)
 - [\[Touhou 15 LoLK\] 東方紺珠伝 ~ Legacy of Lunatic Kingdom](https://www.youtube.com/playlist?list=PLCPzClPadeI2sEvoYTqaOCqNw_lOP8YT8)
 - [\[Touhou 18 UM\] 東方虹龍洞 ~ Unconnected Marketeers](https://www.youtube.com/playlist?list=PLCPzClPadeI3AsPQyz3OjZffC8HnQEQ4m)
+
+-----------------
+
+## Social Links
+
+I'm very active in these platforms!
+- [Youtube](https://www.youtube.com/@Bit2GensokyoMelodies) - Music arrangements and covers
+- [Instagram](https://www.instagram.com/bit2kingwn/) - My drawings and art
+- [Patreon](https://www.patreon.com/bit2kingwn) - Support my works!
+- [Soundcloud](https://soundcloud.com/bit2kingwn/sets/bit2-touhou-covers) - Stream for free. Audio versions.
+
+Other official accounts:
+- [Bilibili](https://space.bilibili.com/1699888757) - Secondary video platform to reach more audience
+- [Facebook](https://www.facebook.com/bit2kingwn) - Official Facebook page
+- [TouhouDB](https://touhoudb.com/Ar/9229) - TouhouDB Page (seldom update anymore)
