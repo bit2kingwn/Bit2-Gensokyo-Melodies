@@ -2,7 +2,7 @@
 # Bit2 Gensokyo Melodies
 Welcome and hello hello, everyone! This is a simple page for playlist and content organization.
 
-## Official Uploads
+## Official Combined Uploads
 - [Recent Incidents in Gensokyo](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
 - [Touhou Complete Folk/Acoustic Collection](https://www.youtube.com/playlist?list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp) - Similar to above, but sorted by in-game order of appearance. For example, songs from Touhou 7 will come before Touhou 10, and Stage 1 themes will appear before Stage 5 themes.
 
