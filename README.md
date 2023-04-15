@@ -24,8 +24,6 @@ The music videos and arrangements are categorized into playlists for specific To
 - [\[Touhou 15 LoLK\] 東方紺珠伝 ~ Legacy of Lunatic Kingdom](https://www.youtube.com/playlist?list=PLCPzClPadeI2sEvoYTqaOCqNw_lOP8YT8)
 - [\[Touhou 18 UM\] 東方虹龍洞 ~ Unconnected Marketeers](https://www.youtube.com/playlist?list=PLCPzClPadeI3AsPQyz3OjZffC8HnQEQ4m)
 
------------------
-
 ## Social Links
 
 I'm very active in these platforms!
