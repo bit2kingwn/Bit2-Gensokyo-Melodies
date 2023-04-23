@@ -8,14 +8,12 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 ## Official Combined Uploads
 - [Latest High-effort Touhou Covers](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
 - [Touhou Complete Folk/Acoustic Collection](https://www.youtube.com/playlist?list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp) - Similar to above, but sorted by in-game order of appearance. For example, songs from Touhou 7 will come before Touhou 10, and Stage 1 themes will appear before Stage 5 themes.
-
-## Main Content Series (Recommended) ⭐ 
-- [Latest High-effort Touhou Covers](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
-- [Happy Touhou Series](https://www.youtube.com/playlist?list=PLCPzClPadeI3i-lhUqBqaVpAddpYIkC3C) - This playlist contains cozy and happy short arrangements and covers, featuring mini music, drawings, and maybe even a key take-away message :)
-
-## Other non-Touhou series
 - [Combined Anime & Game Covers](https://www.youtube.com/playlist?list=PLCPzClPadeI0SOFHlA1Xqpn-D-q7ZeeqJ) - Playlist containing all anime and game covers.
 - [Atelier Series](https://www.youtube.com/playlist?list=PLCPzClPadeI2chdI0JAOc3g8VK3a0Hi8p) - Playlist containing covers from Atelier series.
+
+## Main Touhou Content Series
+- [Latest High-effort Touhou Covers](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
+- [Happy Touhou Series](https://www.youtube.com/playlist?list=PLCPzClPadeI3i-lhUqBqaVpAddpYIkC3C) - This playlist contains cozy and happy short arrangements and covers, featuring mini music, drawings, and maybe even a key take-away message :)
 
 ## Social Links
 
