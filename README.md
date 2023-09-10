@@ -6,7 +6,7 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 ## "Helper" playlists
 - [Latest High-effort Touhou Covers](https://www.youtube.com/playlist?list=PLCPzClPadeI3dM6xzHj_hbfGHlYXWPulA) - The playlist contains all recent proper music videos, sorted by newest uploads first.
 - [Happy Touhou Series](https://www.youtube.com/playlist?list=PLCPzClPadeI3i-lhUqBqaVpAddpYIkC3C) - This playlist contains cozy and happy short arrangements and covers, featuring mini music, drawings, and maybe even a key take-away message :)
-- [Touhou Complete Folk/Acoustic Collection](https://www.youtube.com/playlist?list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp) - Similar to above, but sorted by in-game order of appearance. For example, songs from Touhou 7 will come before Touhou 10, and Stage 1 themes will appear before Stage 5 themes.
+- [Bit2 Gensokyo Melodies (Official Playlist)](https://www.youtube.com/playlist?list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp) - Similar to above, but sorted by in-game order of appearance. For example, songs from Touhou 7 will come before Touhou 10, and Stage 1 themes will appear before Stage 5 themes.
 
 ### Touhou PC-98
 - Bad Apple, but it's in major key: Snow Apple \[[Video](https://www.youtube.com/watch?v=TQNbT7H33fA&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=12&pp=gAQBiAQB8AUB)\]
