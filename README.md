@@ -11,7 +11,7 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 ### Touhou PC-98
 - Bad Apple, but it's in major key: Snow Apple \[[Video](https://www.youtube.com/watch?v=TQNbT7H33fA&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=12&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/snow-apple)\]
 
-### Touhou 6: Embodiment of Scarlet Devil
+### 東方紅魔郷 Touhou 6: Embodiment of Scarlet Devil
 - Stage 1 Theme: A Soul as Red as Ground Cherry \[[Video](https://www.youtube.com/watch?v=DfyiJMaGD08&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=1&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/a-soul-as-red-as-a-ground-cherry)\]
 - Stage 1 Boss (Rumia's Theme): Apparitions Stalk the Night \[[Video](https://www.youtube.com/watch?v=5GM94x0mdsI&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=2&pp=gAQBiAQB8AUB)\]
 - Stage 2 Theme: Lunate Elf \[[Video](https://www.youtube.com/watch?v=4gNUOh52NWs&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=3&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/lunate-elf)
@@ -24,7 +24,7 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 - Ending Theme: An Eternity More Transient than Scarlet \[[Video](https://www.youtube.com/watch?v=_M35TFaPBD8&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=10&pp=gAQBiAQB8AUB)\]
 - Bonus from Osana Reimu: Arigatou \[[Video](https://www.youtube.com/watch?v=oXjv3G30-5Y&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=11&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/flan-chan-wants-to-play)\]
 
-### Touhou 7: Perfect Cherry Blossom
+### 東方妖々夢 Touhou 7: Perfect Cherry Blossom
 - Menu Theme: Mystic Dream ~ Snow or Cherry Petals \[[Video](https://www.youtube.com/watch?v=soViSc5et4M&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=13&pp=gAQBiAQB8AUB)\]
 - Stage 1 Theme: Paradise ~ Deep Mountain & Crystallized Silver \[[Video](https://www.youtube.com/watch?v=vSABagcrtaQ&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=14&pp=gAQBiAQB8AUB)\]
 - Stage 3 Boss (Alice's Theme): Doll Judgement & the Doll Maker of Bucuresti \[[Video](https://www.youtube.com/watch?v=KRz7na5Bz5Y&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=15&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/waltz-of-the-doll-maker)\]
@@ -34,13 +34,13 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 - Stage 6 Boss (Yuyuko's Theme): Bloom Nobly, Ink Black Cherry Blossom ~ Border of Life \[[Video](https://www.youtube.com/watch?v=TD2jnsNSTLQ&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=19&pp=gAQBiAQB8AUB)\]
 - EX Stage Boss (Yukari/Ran's Theme): Necrofantasia \[[Video](https://www.youtube.com/watch?v=6k-eQP0qtQE&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=20&pp=gAQBiAQB8AUB)\]
 
-### Touhou 7.5: Immaterial and Missing Power
+### 東方萃夢想 Touhou 7.5: Immaterial and Missing Power
 - Suika's Theme: Broken Moon - Original Arrangement \[[Video](https://www.youtube.com/watch?v=6vXm0gX_W8w&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=21&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/broken-moon)\]
 - Suika's Theme: Broken Moon - Piano & Bamboo Flute \[[Video](https://www.youtube.com/watch?v=NxLKG7I_eVk&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=22&pp=gAQBiAQB8AUB)\]
 - Suika's Theme: Broken Moon - Music Box Version \[[Video](https://www.youtube.com/watch?v=4IR9s_KLvJE&list=PLCPzClPadeI2K9DucDCoRTxb1d4l5a0Ct&index=82&pp=gAQBiAQB8AUB)\]
 - Suika's Theme Remix: We Are Japanese Goblin \[[Video](https://www.youtube.com/watch?v=t2GgsbRESy0&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=23&pp=gAQBiAQB8AUB)\]
 
-### Touhou 8: Imperishable Night
+### 東方永夜抄 Touhou 8: Imperishable Night
 - Menu Theme: Eternal Night Vignette \[[Video](https://www.youtube.com/watch?v=17QBnQpJdfo&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=24&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/welcome-to-gensokyo)\]
 - Reimu's Theme: Maiden's Capriccio ~ Dream Battle \[[Video](https://www.youtube.com/watch?v=8-NUpOrHYa0&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=25&pp=gAQBiAQB8AUB)\]
 - Marisa's Theme: Love Colored Master Spark \[[Video](https://www.youtube.com/watch?v=k4gj7l2hXXc&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=26&pp=gAQBiAQB8AUB)\]
@@ -49,11 +49,11 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 - Final Boss (Eirin's Theme): Gensokyo Millenium ~ History of the Moon \[[Video](https://www.youtube.com/watch?v=oXKeTW0ABLo&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=29&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/gensokyo-millennium-history-of-the-moon)\]
 - LastWord Theme: Eastern Youkai Beauty \[[Video](https://www.youtube.com/watch?v=dxaUXoIUHEo&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=30&pp=gAQBiAQB8AUB)\]
 
-### Touhou 9: Phantasmagoria of Flower View
+### 東方花映塚 Touhou 9: Phantasmagoria of Flower View
 - Sakuya's Theme: Flowering Night \[[Video](https://www.youtube.com/watch?v=1sFbWU7snqM&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=31&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/easterly-winds-in-the-flowering-night)\]
 - Yuuka's Theme: Pls Rember Happy Day \[[Video](https://www.youtube.com/watch?v=_OHOsGi08Ls&list=PLCPzClPadeI2K9DucDCoRTxb1d4l5a0Ct&index=34&pp=gAQBiAQB8AUB)\]
 
-### Touhou 10: Mountain of Faith
+### 東方風神録 Touhou 10: Mountain of Faith
 - Stage 1 Boss (Minoriko's Theme): Because Princess Inada is Scolding Me (Sights of a Tranquil Village) \[[Video](https://www.youtube.com/watch?v=M6kjcWXaIVY&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=32&pp=gAQBiAQB8AUB)\]
 - Stage 1 Boss (Minoriko's Theme): Because Princess Inada is Scolding Me (In the Autumn Sky) \[[Video](https://www.youtube.com/watch?v=eG-ZbUnZGHg&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=33&pp=gAQBiAQB8AUB)\]
 - Stage 2 Theme: The Road of the Apotropaic God ~ Dark Road \[[Video](https://www.youtube.com/watch?v=bAfnNgKNR1Q&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=34&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/the-road-of-the-apotropaic-god)\]
@@ -63,35 +63,35 @@ Welcome and hello hello, everyone! This is a simple page for playlist and conten
 - Stage 5 Theme: The Primal Scene of Japan the Girl Watched \[[Video](https://www.youtube.com/watch?v=Ado116MBlJY&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=38&pp=gAQBiAQB8AUB)\]
 - Stage 5 Boss (Sanae's Theme): Faith is for the Transient People \[[Video](https://www.youtube.com/watch?v=y29FHWsgUuM&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=39&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/faith-is-for-the-transient-people)\]
 
-### Touhou 11: Subterranean Animism
+### 東方地霊殿 Touhou 11: Subterranean Animism
 - Stage 1 Theme: The Dark Blowhole \[[Video](https://www.youtube.com/watch?v=D_buOpUBXXM&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=40&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/the-dark-blowhole)\]
 - Stage 2 Boss (Parsee's Theme): Green Eyed Jealousy \[[Video](https://www.youtube.com/watch?v=1H2njOr_Wq4&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=41&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/jealousy-beneath-the-earths-crust)\]
 - Stage 3 Theme: Walking the Streets of a Former Hell \[[Video](https://www.youtube.com/watch?v=INoBwShVzMo&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=42&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/walking-the-streets-of-a-former-hell)\]
 - Stage 5 Theme: Lullaby of a Deserted Hell \[[Video](https://www.youtube.com/watch?v=dN3qcSA_VGA&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=43&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/farewell-the-deserted-hell)\]
 
-### Touhou 12: Undefined Fantastic Object
+### 東方星蓮船 Touhou 12: Undefined Fantastic Object
 - Stage 1 Theme: At the End of Spring \[[Video](https://www.youtube.com/watch?v=l3zHcSGJ90M&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=44&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/at-the-end-of-spring)\]
 
-### Touhou 12.3: Touhou Hisoutensoku
+### 東方非想天則 Touhou 12.3: Touhou Hisoutensoku
 - Menu Theme: Did You See That Shadow? \[[Video](https://www.youtube.com/watch?v=fs_sx4C1-h8&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=45&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/did-you-see-that-shadow)\]
 
-### Touhou 12.8: Great Fairy Wars
+### 妖精大戦争 Touhou 12.8: Great Fairy Wars
 - Menu Theme: Three Fairies SAY YA \[[Video](https://www.youtube.com/watch?v=pQTqsJG4R-k&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=46&pp=gAQBiAQB8AUB)\]
 
-## Touhou 14: Double Dealing Character
+### 東方輝針城 Touhou 14: Double Dealing Character
 - Stage 1 Theme: Mist Lake \[[Video](https://www.youtube.com/watch?v=xm6DF6ljXwM&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=47&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/mist-lake)\]
 
-### Touhou 15: Legacy of Lunatic Kingdom
+### 東方紺珠伝 Touhou 15: Legacy of Lunatic Kingdom
 - Stage 3 Boss (Doremy's Theme): Eternal Spring Dream \[[Video](https://www.youtube.com/watch?v=FbI6iqH21rA&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=48&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/eternal-spring-dream)\]
 
-### Touhou 17.5: Gouyoku Ibun
+### 東方剛欲異聞 Touhou 17.5: Gouyoku Ibun
 - Final Boss Theme (Yuuma's Theme): Memento of All Organisms ~ Memory of Fossil Energy \[[Video](https://www.youtube.com/watch?v=Lpmu1_CjUNk&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=49&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/memento-of-all-organisms)\]
 
-### Touhou 18: Unconnected Marketeers
+### 東方虹龍洞 Touhou 18: Unconnected Marketeers
 - Stage 1 Boss (Mike's Theme): Fortunate Kitten \[[Video](https://www.youtube.com/watch?v=YkFymo0GIYk&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=51&pp=gAQBiAQB8AUB)\]
 - Stage 1 Boss (Mike's Theme): Fortunate Fumo!! \[[Video](https://www.youtube.com/watch?v=wgUh9FTWmO8&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=50&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/fortunate-fumo)\]
 
-### Touhou 18.5: 100th Black Market
+### バレットフィリア達の闇市場 Touhou 18.5: 100th Black Market
 - Menu Theme: The Collector's Melancholy Afternoon \[[Video](https://www.youtube.com/watch?v=xdMj5-UmbkE&list=PLCPzClPadeI0L6wKYXtC1gfQ80AxhilSp&index=52&pp=gAQBiAQB8AUB)\]\[[Donate](https://bit2kingwn.bandcamp.com/track/love-colored-black-market)\]
 
 ### Touhou Special
